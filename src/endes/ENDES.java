@@ -8,7 +8,7 @@ package endes;
 
 /**
  *
- * @author Luis Miguel Guerrero Gamero
+ * @author Séfora
  */
 public class ENDES {
 
@@ -20,6 +20,7 @@ public class ENDES {
         
         //ESCRIBE AQUI TU NOMBRE
         System.out.println("Séfora");
+        System.out.println("18 años");
     }
 
 }
